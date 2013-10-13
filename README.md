@@ -1,4 +1,4 @@
-nostalgianet
-============
+Nostalgia Network
+=================
 
 Nostalgia Network
